@@ -1,1 +1,1 @@
-python3 AshutoshGoswami24.py
+python-3.10.6
