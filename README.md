@@ -3,7 +3,7 @@
 
 ## Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/animexboy/TxTLchBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aditya94139/TxTLchBot)
 
 ## AshuXConfig.py [AshuXConfig.py](https://github.com/animexboy/TxTLchBot/blob/main/modules/AshuXConfig.py)
 
