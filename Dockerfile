@@ -1,4 +1,4 @@
-FROM python:3.12.0
+FROM python:3.9.6-alpine3.14
 
 # Create directory for the bot
 RUN mkdir /bot && chmod 777 /bot
