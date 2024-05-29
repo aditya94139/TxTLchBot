@@ -11,10 +11,6 @@ SUDO_USERS = int(environ.get("SUDO_USERS", "5827915041"))
 bot_token = environ.get("bot_token", "7313088857:AAFTKLis7R15rOsxgKuzVHNAZjzbNRCqUlc")
 OWNER_ID = int(environ.get("OWNER_ID", "7062964338"))
 
-QRPICS = (environ.get('QRPICS', 'https://graph.org/file/b3125068739885e7109db.jpg https://graph.org/file/b3125068739885e7109db.jpg')).split()
-PICS = (environ.get('PICS', 'https://graph.org/file/e5dbfe43f501618000369.jpg https://graph.org/file/e5dbfe43f501618000369.jpg https://graph.org/file/e5dbfe43f501618000369.jpg')).split()
-START_TXT = """<b>Welcome to My Bot!</b>
-
 /upload To use the bot and Plz Donate Some Amount
 𝐈𝐟 𝐘𝐨𝐮 𝐋𝐢𝐤𝐞 𝐌𝐲 𝐁𝐨𝐭𝐬 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬, 𝐘𝐨𝐮 𝐂𝐚𝐧 🎁 𝐃𝐨𝐧𝐚𝐭𝐞 𝐌𝐞 𝐀𝐧𝐲 𝐀𝐦𝐨𝐮𝐧𝐭 𝐅𝐫𝐨𝐦 𝟏𝟎𝐌 𝐑𝐬 😁 𝐔𝐩𝐭𝐨 𝐘𝐨𝐮𝐫 𝐂𝐡𝐨𝐢𝐜𝐞.
 <code>PandaWep@ybl</code>"""
